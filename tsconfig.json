@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "components/ui/label.jsx", "components/ui/input.jsx", "components/ui/card.jsx", "components/ui/button.jsx", "lib/utils.js"  ],
   "exclude": ["node_modules"]
 }
